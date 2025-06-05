@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.3612e538.css",
-    "main.js": "/Portfolio/static/js/main.8f6c327b.js",
+    "main.css": "/Portfolio/static/css/main.a1cc744a.css",
+    "main.js": "/Portfolio/static/js/main.58cf9d1e.js",
     "static/js/787.b2611436.chunk.js": "/Portfolio/static/js/787.b2611436.chunk.js",
     "static/media/Certificate_HACKATHON.pdf": "/Portfolio/static/media/Certificate_HACKATHON.ad6aa504723e446fa99f.pdf",
     "static/media/pic.jpeg": "/Portfolio/static/media/pic.c0d9a7338096c6a24aa4.jpeg",
     "static/media/html.pdf": "/Portfolio/static/media/html.6d24fa310c9548453b68.pdf",
-    "static/media/python.pdf": "/Portfolio/static/media/python.ca47305207879082e6a6.pdf",
     "static/media/DM.pdf": "/Portfolio/static/media/DM.b48a709169c1624cc84a.pdf",
     "static/media/certificate Mysql.pdf": "/Portfolio/static/media/certificate Mysql.e4857c2d5231cc9e43e2.pdf",
     "static/media/certificare JavaScript.pdf": "/Portfolio/static/media/certificare JavaScript.db6b36eef5e812036a30.pdf",
@@ -21,12 +20,12 @@
     "static/media/hii.jpg": "/Portfolio/static/media/hii.5a8d8c04f8f141f14209.jpg",
     "static/media/sk.jpg": "/Portfolio/static/media/sk.0d28e72709e2b01351d8.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.3612e538.css.map": "/Portfolio/static/css/main.3612e538.css.map",
-    "main.8f6c327b.js.map": "/Portfolio/static/js/main.8f6c327b.js.map",
+    "main.a1cc744a.css.map": "/Portfolio/static/css/main.a1cc744a.css.map",
+    "main.58cf9d1e.js.map": "/Portfolio/static/js/main.58cf9d1e.js.map",
     "787.b2611436.chunk.js.map": "/Portfolio/static/js/787.b2611436.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3612e538.css",
-    "static/js/main.8f6c327b.js"
+    "static/css/main.a1cc744a.css",
+    "static/js/main.58cf9d1e.js"
   ]
 }
